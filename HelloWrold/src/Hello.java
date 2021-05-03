@@ -22,8 +22,6 @@ class test1 {
 	int f=a/b;
 	System.out.println("Addition of 2 nos is : "+ c);
 	System.out.println("Subtraction of 2 nos is "+ d);
-	System.out.println("Multiplication of 2 nos is "+ e);
-	System.out.println("Division of 2 nos is "+ f);
-
+	
 	}
 }
